@@ -1,0 +1,27 @@
+{
+  "name": "calc_area_of_rect",
+  "version": "1.0.0",
+  "description": "calc area rect",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrusZei/calc_area_of_rect.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Cyrus Zei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyrusZei/calc_area_of_rect/issues"
+  },
+  "homepage": "https://github.com/CyrusZei/calc_area_of_rect#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
